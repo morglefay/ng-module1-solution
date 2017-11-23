@@ -1,0 +1,11 @@
+.no-error {
+	font-size: 1.3em; 
+	font-weight: bold; 
+	color: green;
+}
+      
+.error {
+	font-size: 1.3em; 
+	font-weight: bold; 
+	color: red;
+}
